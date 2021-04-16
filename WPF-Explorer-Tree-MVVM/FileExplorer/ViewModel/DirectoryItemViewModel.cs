@@ -108,7 +108,7 @@ namespace WPF_Explorer_Tree_MVVM.FileExplorer.ViewModel
 
             // Create the view models from the data
             initialItems = new ObservableCollection<DirectoryItemViewModel>(
-                children.Select(item => new DirectoryItemViewModel(item.FullPath, DirectoryItemType.Folder)));
+                children.Select(item => new DirectoryItemViewModel(item.FullPath, DirectoryItemType.Drive)));
         }
         public DirectoryItemViewModel(string fullPath, DirectoryItemType type)
         {

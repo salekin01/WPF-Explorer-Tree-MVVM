@@ -5,7 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Explorer_Tree_MVVM"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="600">
+    <Window.Resources>
+        <ResourceDictionary Source="MainWindowResourceDictionary.xaml" />
+    </Window.Resources>
     <Grid>
         <ContentPresenter x:Name="fileExplorerContentPresenter" />
     </Grid>

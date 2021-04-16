@@ -8,7 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="FileExplorer\Image\" />
+    <Resource Include="FileExplorer\Image\drive.png" />
+    <Resource Include="FileExplorer\Image\file.png" />
+    <Resource Include="FileExplorer\Image\folder-closed.png" />
+    <Resource Include="FileExplorer\Image\folder-open.png" />
   </ItemGroup>
 
 </Project>
