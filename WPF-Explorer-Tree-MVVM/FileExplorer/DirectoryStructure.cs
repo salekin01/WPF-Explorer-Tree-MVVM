@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using WPF_Explorer_Tree_MVVM.FileExplorer.Model;
+using WPF_Explorer_Tree_MVVM.Model;
 
 namespace WPF_Explorer_Tree_MVVM.FileExplorer
 {

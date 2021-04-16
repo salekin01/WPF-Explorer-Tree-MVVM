@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace WPF_Explorer_Tree_MVVM.FileExplorer.ViewModel
+namespace WPF_Explorer_Tree_MVVM.ViewModel
 {
     public class BaseViewModel : INotifyPropertyChanged
     {

@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using WPF_Explorer_Tree_MVVM.FileExplorer.ViewModel;
+using WPF_Explorer_Tree_MVVM.ViewModel;
 
 namespace WPF_Explorer_Tree_MVVM
 {

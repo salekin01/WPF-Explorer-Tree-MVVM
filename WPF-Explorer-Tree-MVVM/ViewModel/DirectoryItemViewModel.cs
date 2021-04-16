@@ -1,8 +1,9 @@
 ﻿using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows.Input;
+using WPF_Explorer_Tree_MVVM.FileExplorer;
 
-namespace WPF_Explorer_Tree_MVVM.FileExplorer.ViewModel
+namespace WPF_Explorer_Tree_MVVM.ViewModel
 {
     public class DirectoryItemViewModel : BaseViewModel
     {
